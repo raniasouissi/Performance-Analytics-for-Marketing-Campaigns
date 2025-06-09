@@ -27,7 +27,7 @@ Ce projet présente un tableau de bord dynamique réalisé avec **Power BI**, co
 
 ### 1. Performance Globale  
 Vue d’ensemble des résultats tous canaux confondus  
-![Performance Globale](./screenshots/marketing1.png)
+![Performance Globale](./marketing1.png)
 
 ---
 
